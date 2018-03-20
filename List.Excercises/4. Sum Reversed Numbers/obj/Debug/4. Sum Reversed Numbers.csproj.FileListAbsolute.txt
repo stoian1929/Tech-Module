@@ -1,0 +1,6 @@
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\4. Sum Reversed Numbers\bin\Debug\_4.Sum_Reversed_Numbers.exe.config
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\4. Sum Reversed Numbers\bin\Debug\_4.Sum_Reversed_Numbers.exe
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\4. Sum Reversed Numbers\bin\Debug\_4.Sum_Reversed_Numbers.pdb
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\4. Sum Reversed Numbers\obj\Debug\_4.Sum_Reversed_Numbers.exe
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\4. Sum Reversed Numbers\obj\Debug\_4.Sum_Reversed_Numbers.pdb
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\4. Sum Reversed Numbers\obj\Debug\4. Sum Reversed Numbers.csprojResolveAssemblyReference.cache

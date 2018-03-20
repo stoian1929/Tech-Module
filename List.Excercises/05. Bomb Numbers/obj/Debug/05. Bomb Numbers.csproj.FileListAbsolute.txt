@@ -1,0 +1,6 @@
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\05. Bomb Numbers\bin\Debug\_05.Bomb_Numbers.exe.config
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\05. Bomb Numbers\bin\Debug\_05.Bomb_Numbers.exe
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\05. Bomb Numbers\bin\Debug\_05.Bomb_Numbers.pdb
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\05. Bomb Numbers\obj\Debug\05. Bomb Numbers.csprojResolveAssemblyReference.cache
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\05. Bomb Numbers\obj\Debug\_05.Bomb_Numbers.exe
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\05. Bomb Numbers\obj\Debug\_05.Bomb_Numbers.pdb

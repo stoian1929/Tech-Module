@@ -1,0 +1,6 @@
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\1. Max Sequence of Equal Elements\bin\Debug\_1.Max_Sequence_of_Equal_Elements.exe.config
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\1. Max Sequence of Equal Elements\bin\Debug\_1.Max_Sequence_of_Equal_Elements.exe
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\1. Max Sequence of Equal Elements\bin\Debug\_1.Max_Sequence_of_Equal_Elements.pdb
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\1. Max Sequence of Equal Elements\obj\Debug\1. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\1. Max Sequence of Equal Elements\obj\Debug\_1.Max_Sequence_of_Equal_Elements.exe
+D:\softuni\Tech Modul\Programing Fundamentals\ListsAndArrays\Lists.ExercisesAndLabs\List.Excercises\1. Max Sequence of Equal Elements\obj\Debug\_1.Max_Sequence_of_Equal_Elements.pdb
